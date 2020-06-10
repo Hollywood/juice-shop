@@ -26,6 +26,7 @@ The minimum requirements for code contributions are:
    [signed off](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--s)
    to indicate the contributor's agreement with the
    [Developer Certificate of Origin](https://developercertificate.org/).
+6. Do not contribute.
 
 ### Contribution Guidelines
 
